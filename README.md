@@ -36,13 +36,21 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The ciuile conuersation of M. Steeuen Guazzo written first in Italian, and nowe translated out of Fr
+
+1. ¶ To the honorable, and his very good Ladie, the Ladie Norrice, GEORGE PETTIE wisheth contentation in all thinges.
+
+1. The Preface to the Readers.
+
 #####Body#####
 
-1. PROEME.
+1. The first booke of Ciuile Conuersation, by Maister Steuen Guazzo. Conteining in generall, the fruites that may be reaped by conuersation, and teaching how to know good companie from yll.
 
-1. Guazzo. Anniball.
+    _ PROEME.
 
+    _ Guazzo. Anniball.
+
+1. ¶ The second Booke of ciuile conuersation, written by M. Steuen Guazzo.
+〈1… pages missing〉to satisfie a new friend, wherein I greatlye commende your wit, and giue you most 
 **Types of content**
 
   * There are 146 **verse** lines!
